@@ -4,20 +4,20 @@ using namespace std;
 int main() {
   
   int a = 2;
-  double b = 0;
+  double b = ;
   
   cout << "a =" << a << endl;
   cout << "b =" << b << endl;
 
-  cout << "a/b = " << a/b << endl;
+  cout << "a*b = " << a*b << endl;
 
   int d;
-  d = a/b;
-  cout << "int d = a/b = " << d << endl;
+  d = a*b;
+  cout << "int d = a*b = " << d << endl;
 
   double g;
-  g = a/b; 
-  cout << "double g = a/b = " << g << endl;
+  g = a*b; 
+  cout << "double g = a*b = " << g << endl;
 
 
 
